@@ -5,6 +5,11 @@ h1,h3{
 p, h2, h4, h5, .testphase{
   font-family: 'Signika', sans-serif;
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
 /* h5{
   font-family: 'Playfair Display', serif;
 } */
